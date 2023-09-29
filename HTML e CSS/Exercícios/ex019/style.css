@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body {
+    background-image: linear-gradient(#cae5e5, #f3f3df);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: rgb(39, 39, 135);
+}
+#principal{
+    text-align: center;
+    color: #07074a;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    font-weight: bolder;
+}
+h2 {
+    color: #149a9e;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+.basico {
+    color: #55a255;
+}
+.intermediario{
+    color: #389738;
+}
+.avancado{
+    color: #0b7b7f;
+}
+.destaque{
+    background-color: rgb(250, 210, 110);
+}
